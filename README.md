@@ -4,7 +4,7 @@
 
 **La Plataforma Todo-en-Uno que Democratiza la IA para tu Empresa**
 
-[🚀 Demo](#demo) • [✨ Características](#características) • [📊 Casos de Uso](#casos-de-uso) • [💎 Planes](#planes) • [🔧 Instalación](#instalación)
+[🚀 Demo](#demo) • [✨ Características](#características) • [📊 Casos de Uso](#casos-de-uso) • [💎 Planes](#planes) 
 
 </div>
 
@@ -247,63 +247,9 @@ Una plataforma centralizada, segura y escalable que:
 - Tokens anti-CSRF
 - Protección contra inyección SQL
 
----
 
-## 🔧 Instalación
-
-### Requisitos Previos
-
-- .NET 8.0 SDK
-- SQL Server 2019+ (o LocalDB)
-- Visual Studio 2022 o VS Code
-- API Keys de los proveedores de IA que desees usar
-
-### Configuración Rápida
-
-1. **Clonar el repositorio**:
-```bash
-git clone https://github.com/tuempresa/alphacoding.git
-cd alphacoding
-```
-
-2. **Configurar la base de datos**:
-```bash
-dotnet ef database update
-```
-
-3. **Configurar API Keys** en `appsettings.json`:
-```json
-{
-  "GeminiApiKey": "tu-api-key-aqui",
-  "OpenAIApiKey": "tu-api-key-aqui",
-  "AnthropicApiKey": "tu-api-key-aqui"
-}
-```
-
-4. **Ejecutar la aplicación**:
-```bash
-dotnet run
-```
-
-5. **Acceder**: Navega a `https://localhost:7139`
-
-### Credenciales por Defecto
-
-- **Email**: superadmin@alphatech.com
-- **Contraseña**: SuperAdmin123!
-
-⚠️ **IMPORTANTE**: Cambia estas credenciales en producción.
-
----
 
 ## 📚 Uso de la Plataforma
-
-### Para SuperAdministradores
-
-1. **Crear Empresas**: Dashboard → Empresas → Nueva Empresa
-2. **Gestionar Usuarios**: Usuarios → Crear Usuario → Asignar Rol y Empresa
-3. **Monitorear Actividad**: Dashboard con métricas globales
-4. **Configurar Modelos**: Administrar integraciones de IA
 
 ### Para Administradores de Empresa
 
@@ -378,25 +324,12 @@ dotnet run
 - Soporte dedicado 24/7
 - SLA garantizado
 
-[📞 Contactar Ventas](mailto:ventas@alphacodingai.com)
-
----
-
-## 🤝 Soporte y Comunidad
-
-- **📧 Email**: soporte@alphacodingai.com
-- **💬 Discord**: [Unirse a la comunidad](https://discord.gg/alphacodingai)
-- **📖 Documentación**: [docs.alphacodingai.com](https://docs.alphacodingai.com)
-- **🐛 Reportar Bugs**: [GitHub Issues](https://github.com/tuempresa/alphacoding/issues)
-- **💡 Solicitar Características**: [Feature Requests](https://github.com/tuempresa/alphacoding/discussions)
-
----
 
 ## 📄 Licencia
 
 Copyright © 2025 AlphaCoding AI. Todos los derechos reservados.
 
-Este software es propietario. Para licencias empresariales, contactar a legal@alphacodingai.com
+Este software es propietario. 
 
 ---
 
@@ -414,8 +347,6 @@ Construido con:
 <div align="center">
 
 **¿Listo para transformar tu empresa con IA?**
-
-[🚀 Solicitar Demo](https://alphacodingai.com/demo) • [📧 Contactar Ventas](mailto:ventas@alphacodingai.com) • [📖 Ver Documentación](https://docs.alphacodingai.com)
 
 ---
 
