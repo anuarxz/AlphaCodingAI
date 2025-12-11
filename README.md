@@ -350,6 +350,6 @@ Construido con:
 
 ---
 
-Hecho con ❤️ por el equipo de AlphaCoding AI
+Hecho con ❤️ por AlphaCoding AI
 
 </div>
